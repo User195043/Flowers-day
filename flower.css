@@ -248,10 +248,6 @@ section .set div:nth-child(26)
 
 h2 
 {
-	position: center;
-	text-align: justify;
-	margin: 50vh;
-	width: 30vh;
 	text-style: italic;
 }
 .word
