@@ -254,9 +254,8 @@ h2
 .word
 {
 	position: absolute;
-	margin: 20vh;
 	text-align: justify;
-	margin-left: 5%;
+	margin-left: 10%;
 	margin: 40vh;
 	width: 45vh;
 	margin-right: 90%;
